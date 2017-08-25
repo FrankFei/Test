@@ -10,7 +10,7 @@
     changes and its generated code, it will produce a "merge conflict" that you
     will need to resolve manually.
 */
-Ext.Loader.setPath('ux', 'app/ux');
+Ext.Loader.setPath('ux', 'app/ux');1111
 
 Ext.application({
     name: 'master_ChuangCai',
