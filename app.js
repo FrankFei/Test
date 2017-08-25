@@ -12,7 +12,7 @@
 */
 Ext.Loader.setPath('ux', 'app/ux');1111
 
-Ext.application({
+Ext.application({123
     name: 'master_ChuangCai',
     code: 'code',
     requires: [
